@@ -1,0 +1,18 @@
+Hi Rohini,
+
+We had found out a way of creating a test data template which syncs up with SCB Test data team and with automation team to reduce the man effort of filling various sheets inorder to start the execution which eats out more time. 
+
+What was there ?
+
+1) Test data provided by Test data team were not in sync with Automation .
+2) Different sheet has to be prepared for different interface UI checks.
+3) Difficult in collating and validating the end result.
+4) Data reuseablity was not handled till max.   
+
+Whats was optimized ?
+
+1) Test data template was prepared in a way which can provide test data to both upstream and downstream UI applications in a single stretch.
+2) All those Data Manipulation was handled in different sheet with the reference to the test data template for interface UI checks.
+3) Data reusablity was marked on the same sheet for further resue.
+
+   
