@@ -1,0 +1,26 @@
+1) We had a brief Introduction about each & everyone were they shared their perivous project experiences and their journey over Maveric. 
+2) Onbaording process had been intiated,Soon automation team will be into SCB.
+3) Brief PPT will be shared by Rohini which hold about entire retails banking and core banking with defentiontions 
+4) A quick demo will be given on genei framawork by Ramaya Sethuraman 
+5) Automation to be made on JIRA to reduce the mannual effort.
+6) There is a plan on owning the testdata management from SCB which supports SQl as a base . 
+
+
+Action points:
+1) Session will be conducted in this week for the entire team on the current SCB's domain workflow.
+
+
+Supports :
+
+1) Domian level supports will be done by AjayKarthik,Karthikeyan Mohanasundaram,Kowshik Shanmugasundaram  
+2) Anil will be techinacal spoc and Manikandan,Gowrishankari,Arun prasad will be taking over SCB automation.
+3) Ajaykarthik and Rohini will be supporting on the operational challenges faced by automation team.
+  
+
+
+
+
+
+
+ 
+
